@@ -1,0 +1,110 @@
+body{
+
+  margin: 0;
+  background-color:#e2f0ef;
+  text-align: center;
+
+}
+h1{
+
+  font-family: 'Dancing Script', cursive;
+  font-size: 80px;
+
+}
+h2{
+  font-family: 'Varela Round', sans-serif;
+  font-size: 2.5rem;
+  margin: 3px;
+}
+h3{
+  font-family: 'Varela Round', sans-serif;
+  color: #149790;
+}
+hr{
+
+  width: 200px;
+  margin-top: 20px solid black;
+
+}
+
+p{
+  font-family: 'Merriweather', serif;
+  font-weight:bold;
+  font-size: 15px;
+
+}
+.top-flower{
+
+  margin:5px 0px 0px 700px;
+}
+
+.bottom-flower{
+  position: absolute;
+  margin-left: 50px;
+}
+.top-container{
+background-color: #d4f3e3;
+
+}
+.middle-conatainer{
+margin: 0;
+}
+.intro {
+  width: 50%;
+  text-align: center;
+  margin: 20px auto 40px auto;
+}
+.skill-rows{
+  width: 50%;
+  margin: 80px auto 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-image{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.challenge-image{
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+.hobbies-image{
+  width: 30%;
+  float: left;
+  margin-right: 50px;
+  line-height: 1;
+}
+.kfc-image{
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom{
+margin: 20px auto 20px auto;
+
+}
+
+.bottom-container{
+  margin-top: 20px;
+background-color: #84f3ef;
+padding: 20px 0px 5px 0px;
+}
+
+a{
+  margin: 10px 20px;
+  color: black;
+  font-family: 'Varela Round', sans-serif;
+  color: #149790;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+.copyright{
+  font-size: 0.75rem;
+  padding: 10px 0px;
+  color: black;
+}
