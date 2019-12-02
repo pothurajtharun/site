@@ -42,6 +42,10 @@ p{
   position: absolute;
   margin-left: 50px;
 }
+.flower{
+  height:400px;
+  width: 100%;
+}
 .top-container{
 background-color: #d4f3e3;
 
@@ -107,4 +111,20 @@ a:hover{
   font-size: 0.75rem;
   padding: 10px 0px;
   color: black;
+}
+@media only screen and (max-width: 600px) {
+  .skill-rows{
+    width: 85%;
+    margin: 80px auto 80px auto;
+    text-align: left;
+    line-height: 2;
+  }
+  .flower{
+    height:400px;
+    width: 100%;
+  }
+  .top-flower{
+
+    margin:auto;
+  }
 }
