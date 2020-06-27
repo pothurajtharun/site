@@ -59,29 +59,29 @@ margin: 0;
   margin: 20px auto 40px auto;
 }
 .skill-rows{
-  width: 50%;
-  margin: 80px auto 80px auto;
+  width: 75%;
+  margin: 60px auto 80px auto;
   text-align: left;
   line-height: 2;
 }
 .skill-image{
-  width: 30%;
+  width: 25%;
   float: left;
   margin-right: 30px;
 }
 .challenge-image{
-  width: 30%;
+  width: 25%;
   float: right;
   margin-left: 30px;
 }
 .hobbies-image{
-  width: 30%;
+  width: 25%;
   float: left;
   margin-right: 50px;
   line-height: 1;
 }
 .kfc-image{
-  width: 30%;
+  width: 25%;
   float: right;
   margin-left: 30px;
 }
@@ -114,8 +114,8 @@ a:hover{
 }
 @media only screen and (max-width: 600px) {
   .skill-rows{
-    width: 85%;
-    margin: 80px auto 80px auto;
+    width: 95%;
+    margin: 60px auto 80px auto;
     text-align: left;
     line-height: 2;
   }
