@@ -59,7 +59,7 @@ margin: 0;
   margin: 20px auto 40px auto;
 }
 .skill-rows{
-  width: 100%;
+  width: 75%;
   margin: 60px auto 80px auto;
   text-align: left;
   line-height: 2;
@@ -114,8 +114,8 @@ a:hover{
 }
 @media only screen and (max-width: 600px) {
   .skill-rows{
-    width: 95%;
-    margin: 60px auto 80px auto;
+    width: 85%;
+    margin: 80px auto 80px auto;
     text-align: left;
     line-height: 2;
   }
@@ -124,7 +124,6 @@ a:hover{
     width: 100%;
   }
   .top-flower{
-
     margin:auto;
   }
 }
